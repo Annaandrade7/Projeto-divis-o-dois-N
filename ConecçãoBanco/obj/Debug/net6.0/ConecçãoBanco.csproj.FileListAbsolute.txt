@@ -1,0 +1,15 @@
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\bin\Debug\net6.0\ConecçãoBanco.exe
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\bin\Debug\net6.0\ConecçãoBanco.deps.json
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\bin\Debug\net6.0\ConecçãoBanco.runtimeconfig.json
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\bin\Debug\net6.0\ConecçãoBanco.dll
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\bin\Debug\net6.0\ConecçãoBanco.pdb
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.csproj.AssemblyReference.cache
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.AssemblyInfoInputs.cache
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.AssemblyInfo.cs
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.csproj.CoreCompileInputs.cache
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.dll
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\refint\ConecçãoBanco.dll
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.pdb
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ConecçãoBanco.genruntimeconfig.cache
+C:\Users\2022102020079\source\repos\ConecçãoBanco\ConecçãoBanco\obj\Debug\net6.0\ref\ConecçãoBanco.dll
